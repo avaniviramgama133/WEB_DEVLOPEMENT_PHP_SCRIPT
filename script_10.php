@@ -1,5 +1,9 @@
+<!-- Write a PHP script to calculate the area of a rectangle given its length and width. -->
 <?php
- $name="Meet!";
- $age=25;
- echo("Hello name You Are $age Year Old");
+$length = 10; 
+$width = 5;   
+
+$area = $length * $width;
+
+echo "The area of the rectangle is: $area ";
 ?>
