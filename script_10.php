@@ -1,5 +1,5 @@
 <?php
- $name="Meet!";
- $age=25;
+ $name="Avani!";
+ $age=21;
  echo("Hello name You Are $age Year Old");
 ?>
